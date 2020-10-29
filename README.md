@@ -4,6 +4,10 @@ _By Ryan Herr, for JupyterCon 2020_
 
 You want to deploy your scikit-learn model. Now what? You can make an API for your model in Jupyter! You’ll learn [FastAPI](https://fastapi.tiangolo.com/), a Python web framework with automatic interactive docs. We’ll validate inputs with type hints, and convert to a dataframe, to make new predictions with your model. You’ll have a working API prototype, running from a notebook and ready to deploy!
 
+## Watch video
+
+The talk was recorded in a [25 minute video on JupyterCon's YouTube channel](https://youtu.be/hGHwu1h3l6g). 
+
 ## See completed app
 
 Go to https://penguin-predictor.herokuapp.com/
