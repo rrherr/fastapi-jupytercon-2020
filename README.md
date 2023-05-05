@@ -8,10 +8,6 @@ You want to deploy your scikit-learn model. Now what? You can make an API for yo
 
 The talk was recorded in a [25 minute video on JupyterCon's YouTube channel](https://youtu.be/hGHwu1h3l6g). 
 
-## See completed app
-
-Go to https://penguin-predictor.herokuapp.com/
-
 ## Work on Binder
 
 Go to https://mybinder.org/v2/gh/rrherr/fastapi-jupytercon-2020/main
@@ -59,7 +55,7 @@ deactivate
 
 ## Deploy to Heroku
 
-Sign up for a free Heroku account  
+Sign up for a Heroku account  
 https://signup.heroku.com/
 
 Download and install the Heroku Command Line Interface  
